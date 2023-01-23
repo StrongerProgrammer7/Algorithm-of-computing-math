@@ -36,6 +36,7 @@
 </div>
 <div>
 <h3>Numerical solution of nonlinear equations with one unknown</h3>
+<p> Realise method dividing a segment in half,Newton's</p>
 </div>
 <div>
 <h3>Polynom legandre's</h3>
