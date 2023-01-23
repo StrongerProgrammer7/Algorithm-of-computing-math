@@ -1,0 +1,15 @@
+#     A
+#    Gnuplot Script
+#--------------------------
+set key outside
+set title "Cubic Spline"
+set key at 7,2.8
+set xlabel 'X-axis'
+set xrange [-0.5:2*pi]
+set yrange [-1:4]
+set xtics 0.5
+set ytics 0.2
+#-----------------------------------
+plot 'data.txt' using 1:2 title 'point' w p pt 2 ps 1.5 lw 2 lc "red",\
+     'data.txt' using 1:2 title 'F(x)' w l ls 1 lw 2,\
+     'cubicSpline.txt' using 1:2 title 'CubicSpline(xk)' w l ls 2 lw 2 
