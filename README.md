@@ -20,3 +20,11 @@
 [Methods Eigenvalues.pdf](https://github.com/StrongerProgrammer7/Algorithm-of-computing-math/files/10481703/Methods.Eigenvalues.pdf)
 <p>Realise method iteration</p>
 </div>
+<div>
+<h3>LAQ</h3>
+<p>Realise method Gaussa,Holeckogo,Square,Sweep</p>
+</div>
+<h3>Numerical integration</h3>
+[Numerical integration.pdf](https://github.com/StrongerProgrammer7/Algorithm-of-computing-math/files/10481907/Numerical.integration.pdf)
+<p>Realise method Left rectangle, Sympson</p>
+</div>
