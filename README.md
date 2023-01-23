@@ -35,6 +35,12 @@
 [Newton's interpolation polynomial.docx](https://github.com/StrongerProgrammer7/Algorithm-of-computing-math/files/10481981/Newton.s.interpolation.polynomial.docx)
 </div>
 <div>
+<h3>Numerical solution of nonlinear equations with one unknown</h3>
+</div>
+<div>
+<h3>Polynom legandre's</h3>
+</div>
+<div>
 <h4>Extra document </h4>
 [Основы выч_математики.pdf](https://github.com/StrongerProgrammer7/Algorithm-of-computing-math/files/10481962/_.pdf)
 </div>
