@@ -1,0 +1,4 @@
+2
+1
+1
+2     'result.txt' using 1:2 title 'Exact function' w l ls 1-цвет lw 2-Толщина,\ pt тип точки Ps жир точки
