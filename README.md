@@ -14,7 +14,7 @@
 <div>
 <h3>Iterative methods for solving SLAE</h3>
 [Iterative methods for solving SLAE.pdf](https://github.com/StrongerProgrammer7/Algorithm-of-computing-math/files/10481682/Iterative.methods.for.solving.SLAE.pdf)
-<p>Realise method Jakobi, Gaussa-Zedilya</p>
+<p>Realise method Jakobi, Gaussa-Zedilya,Inverse_MethodGaussa</p>
 </div>
 <div>
 <h3>Methods Eigenvalues</h3>
