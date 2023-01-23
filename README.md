@@ -44,4 +44,5 @@
 <div>
 <h4>Extra document </h4>
 [Основы выч_математики.pdf](https://github.com/StrongerProgrammer7/Algorithm-of-computing-math/files/10481962/_.pdf)
+<p>Method Hord - rectangle first (with integral)</p>
 </div>
