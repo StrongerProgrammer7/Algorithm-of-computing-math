@@ -4,7 +4,10 @@
 <div>
 <h3>Cauchy problem for ordinary differential equation</h3>
 [ordinary differential equation](https://github.com/StrongerProgrammer7/Algorithm-of-computing-math/files/10481565/CAUCHY.PROBLEM.FOR.ORDINARY.DIFFERENTIAL.EQUATION.pdf)
-<p>Realise method Euler</p>
+<p>Realise method Euler(C++ & C#) <br>
+&nbsp&nbsp&nbspRunge-Kutt 2,4<br>
+&nbsp&nbsp&nbspAdams-Bashfort 4,Multon 2</p>
+<p align="center"><img src="https://user-images.githubusercontent.com/71569051/218527541-e0d14f8b-51f7-492c-9bf7-7fc638eacb74.png"></p>
 </div>
 <div>
 <h3>Interpolation by cubic splines</h3>
